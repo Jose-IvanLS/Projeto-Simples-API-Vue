@@ -1,0 +1,12 @@
+.linkEditado{
+   color: white !important;
+   text-decoration: none;
+   font-weight: bold;
+}
+div.container{
+   width: 30% !important;
+}
+.divCartoes {
+   display: flex;
+   justify-content: center;
+}

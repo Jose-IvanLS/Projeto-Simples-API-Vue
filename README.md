@@ -22,3 +22,8 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### API consumida
+```
+https://tibiadata.com/doc-api-v2/characters/
+```
